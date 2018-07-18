@@ -16,5 +16,5 @@ Data shape must be `number of participate x 3(x, y, fixation)`
 fixation can be 1
 
 ## Example of the result
-This image don't use actual human eye tracking data: this use toy data  
+This image does **not** use actual human eye tracking data: this uses toy data  
 <img src="https://github.com/takyamamoto/Fixation-Densitymap/blob/master/output.png" width=40%>
