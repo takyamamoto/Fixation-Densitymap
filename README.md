@@ -2,9 +2,11 @@
 Fast Python implementation Generating Heatmaps from eye tracking data  
 
 ## Requirement
-`Python == 3.6`  
-`OpenCV == 3.4`  
-`tqdm == 4.23`
+```
+Python == 3.6  
+OpenCV == 3.4  
+tqdm == 4.23
+```
 
 ## Usage
 Open `Fixpos2Densemap.py`  
