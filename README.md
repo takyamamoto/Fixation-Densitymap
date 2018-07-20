@@ -24,3 +24,7 @@ fixation can be 1
 ## Demo
 This image does **not** use actual human eye tracking data: this uses toy data  
 <img src="https://github.com/takyamamoto/Fixation-Densitymap/blob/master/output.png" width=40%>
+
+## Other implementation
+[TobiasRoeddiger/GazePointHeatMap](https://github.com/TobiasRoeddiger/GazePointHeatMap): Easy to use Python command line based tool to generate a gaze point heat map from a csv file.  
+[jjguy/heatmap](https://github.com/jjguy/heatmap): Python module to create heatmaps  
